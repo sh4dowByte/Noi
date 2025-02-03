@@ -22,6 +22,12 @@
       "url": "https://chatgpt.com"
     },
     {
+      "id": "noi:deepseek",
+      "parent": "noi@ai",
+      "text": "Deepseek",
+      "url": "https://chat.deepseek.com"
+    },
+    {
       "id": "noi:claude",
       "parent": "noi@ai",
       "text": "Claude",
