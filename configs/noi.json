@@ -28,6 +28,18 @@
       "url": "https://chat.deepseek.com"
     },
     {
+      "id": "noi:qwenlm",
+      "parent": "noi@ai",
+      "text": "Qwen LM",
+      "url": "https://chat.qwenlm.ai"
+    },
+    {
+      "id": "noi:sonoai",
+      "parent": "noi@ai",
+      "text": "Suno AI",
+      "url": "https://suno.com"
+    },
+    {
       "id": "noi:claude",
       "parent": "noi@ai",
       "text": "Claude",
