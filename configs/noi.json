@@ -16,30 +16,6 @@
       "text": "Dev"
     },
     {
-      "id": "noi@community",
-      "parent": 0,
-      "dir": true,
-      "text": "Community"
-    },
-    {
-      "id": "noi@design",
-      "parent": 0,
-      "dir": true,
-      "text": "Design"
-    },
-    {
-      "id": "noi@email",
-      "parent": 0,
-      "dir": true,
-      "text": "Email"
-    },
-    {
-      "id": "noi@video",
-      "parent": 0,
-      "dir": true,
-      "text": "Video"
-    },
-    {
       "id": "noi:chatgpt",
       "parent": "noi@ai",
       "text": "ChatGPT",
