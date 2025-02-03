@@ -124,12 +124,6 @@
       "url": "https://www.midjourney.com"
     },
     {
-      "id": "noi:suno",
-      "parent": "noi@ai",
-      "text": "Suno AI",
-      "url": "https://suno.com"
-    },
-    {
       "id": "noi:github",
       "parent": "noi@dev",
       "text": "GitHub",
