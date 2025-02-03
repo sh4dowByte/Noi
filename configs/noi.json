@@ -1,7 +1,7 @@
 {
   "name": "Noi Mode",
   "version": "0.1.11",
-  "sync": "https://github.com/lencx/noi/blob/main/configs/noi.mode.json",
+  "sync": "https://raw.githubusercontent.com/sh4dowByte/Noi/refs/heads/main/configs/noi.json",
   "modes": [
     {
       "id": "noi@ai",
