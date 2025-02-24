@@ -34,10 +34,16 @@
       "url": "https://chat.qwenlm.ai"
     },
     {
-      "id": "noi:sonoai",
+      "id": "noi:suno",
       "parent": "noi@ai",
       "text": "Suno AI",
       "url": "https://suno.com"
+    },
+    {
+      "id": "noi:grok",
+      "parent": "noi@ai",
+      "text": "Grok AI",
+      "url": "https://grok.com/?referrer=website"
     },
     {
       "id": "noi:claude",
